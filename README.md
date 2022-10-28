@@ -40,3 +40,4 @@ _"Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio d
 
 
 ## Certificado
+![img](https://github.com/htonioni/mysql-desafio-oficina-dio._/blob/master/certificado/certificado.jpg)
